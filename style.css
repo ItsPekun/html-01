@@ -1,0 +1,29 @@
+/* Selector por etiqueta */
+h1 {
+    color: blue;
+}
+
+div p{
+    color:brown;
+}
+
+p {
+    color: red;
+}
+/* Selector por clases */
+
+.titulos {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.subtitulos {
+    font-family:Arial, sans-serif;
+}
+
+.texto {
+    color: brown
+}
+
+/* Selector por ID */
+#texto-1 {
+    font-size: 36px;
+}
